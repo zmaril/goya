@@ -16,7 +16,7 @@
         {:color "#A67A00" :text ""}
         {:color "#BF9930" :text ""}]
 
-       :image-data (vec (take (* width*height) (repeat "#00000")))
+       :image-data (vec (take (* width*height) (repeat "#000000")))
        :canvas-width width
        :canvas-height height
 
